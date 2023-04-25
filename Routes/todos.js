@@ -47,7 +47,7 @@ postRouter.use(bodyParser.json()); // to use body object in requests
  * @swagger
  * /todos:
  *   get:
- *     summary: Returns all posts
+ *     summary: Returns all todos
  *     tags: [To Do Lists]
  *     responses:
  *       200:
